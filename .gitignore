@@ -42,10 +42,10 @@ build/Release
 jspm_packages/
 
 # Include specific dependencies
-!node_modules/
+# !node_modules/
 node_modules/*
-!node_modules/@fortawesome
-!node_modules/LICENSE.md
+# !node_modules/@fortawesome
+# !node_modules/LICENSE.md
 
 # TypeScript v1 declaration files
 typings/
